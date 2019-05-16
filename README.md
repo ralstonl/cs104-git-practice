@@ -1,2 +1,2 @@
 # cs104-git-practice
-learning Git commands
+to practice Git commands
